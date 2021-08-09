@@ -1,16 +1,6 @@
 ### Hi there 👋
 
-<!--
-**sindyelim/sindyelim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on repository
-- 🌱 I’m currently learning repository
-- 👯 I’m looking to collaborate on valorant
-- 🤔 I’m looking for help with jobs
-- 💬 Ask me about valorant
-- 📫 How to reach me: don't
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: my dog died
--->
+👋 I’m Sindy, an aspiring technical writer.
+🌱 I’m currently building my portfolio and learning Markdown and HMTL.
+💞️ I’m looking to collaborate on technical writing projects.
+📫 You can reach me at sindyjlim@gmail.com.
