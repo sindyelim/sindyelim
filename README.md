@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-👋 I’m Sindy, an aspiring technical writer.
+I'm Sindy, an aspiring technical writer. I'm currently taking a portfolio workshop class that involves learning GitHub. By the end of August, I hope to have four technical documents about GitHub to add to my portfolio.
 
-🌱 I’m currently building my portfolio and learning Markdown and HMTL.
-
-💞️ I’m looking to collaborate on technical writing projects.
-
-📫 You can reach me at sindyjlim@gmail.com.
+Aside from technical documentation, you can catch me geeking out on film photography, Phoebe Bridgers, and books.
